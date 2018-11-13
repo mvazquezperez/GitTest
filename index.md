@@ -1,4 +1,4 @@
-#Índice
+#Índice, sin Git
 
 * Larry PLotter y el Bucle Filosofal
 * LArry PLotter y La clave secreta del wifi
