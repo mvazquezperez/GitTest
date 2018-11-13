@@ -1,4 +1,5 @@
-#Índice, usamos git
+
+#Índice, usamos git y sin Git
 
 * Larry PLotter y el Bucle Filosofal
 * LArry PLotter y La clave secreta del wifi
